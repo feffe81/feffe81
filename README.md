@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feffe81
-- 👀 I’m interested in programming, photography and RC controleld aeroplanes
+- 👀 I’m interested in programming, photography and RC controlled aeroplanes
 
 <!---
 feffe81/feffe81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
